@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Local settings
+.env
+.env.*
+!.env.example
+# Altium generated files
+History/
+__Previews/
+Project Logs*/
+*.PrjPcbStructure
+*.PcbDoc.htm
+*.SchDoc.htm
+*.bak
+*.log
+# Local provenance with personal paths
+/docs/source-map.csv
