@@ -23,4 +23,8 @@ The [`FG1000 Altium folder`](../hardware/altium/FG1000/) contains the `.PrjPcb` 
 
 ## Evidence boundaries
 
-This repository contains source and design artifacts. It does not provide a test report, verified release, measured performance results, team contribution statement or demonstration video. No such evidence is implied by the presentation artwork.
+This repository contains source and design artifacts. It does not provide a test report, verified release, measured performance results, demonstration video. No such evidence is implied by the presentation artwork.
+
+## Authorship scope
+
+[FurkanUstaoglu](https://github.com/FurkanUstaoglu) developed the electronics, hardware design and software presented here as part of a graduation project. Third-party component libraries are identified separately and are not claimed as original work.
