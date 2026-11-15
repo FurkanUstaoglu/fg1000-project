@@ -4,7 +4,7 @@
 
 Bu depo; Arduino Mega ve ESP32 kaynaklarını, Python kamera uygulamalarını ve Altium tasarım belgelerini incelemeyi kolaylaştıracak bir yapıda sunar.
 
-[Proje sahibi: FurkanUstaoglu](https://github.com/FurkanUstaoglu) · [English overview](../README.md)
+[Elektronik, donanım tasarımı ve yazılım: FurkanUstaoglu](https://github.com/FurkanUstaoglu) · [English overview](../README.md)
 
 ## Projenin kapsamı
 
@@ -29,7 +29,9 @@ Depo hazırlığı sırasında derleme, donanım çalıştırma veya uçtan uca 
 
 Altium içeriğinde şemalar ve bileşen ayak izi kütüphaneleri bulunuyor; tamamlanmış `.PcbDoc` kart yerleşimi paylaşılmamış. Örnek kamera kayıtları geliştirme arşividir; başarı gösterimi veya performans kanıtı değildir.
 
-Bireysel katkı dağılımı ve ekip bilgisi henüz belgelenmediğinden, bu sayfa belirli işleri tek bir kişiye atfetmez.
+## Projedeki katkım
+
+Bu depoda sunulan elektronik, donanım tasarımı ve yazılım çalışmalarını bir bitirme projesi kapsamında geliştirdim. Elektronik şema tasarımı, Arduino Mega ve ESP32 yazılımları ile Python görüntü işleme uygulamaları benim çalışma kapsamımdı. Bu portföy bu katkılara odaklanır.
 
 ## Dosya düzeni
 
