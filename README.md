@@ -13,7 +13,11 @@
 
 A multidisciplinary graduation project bringing together **embedded software, camera-based image processing and electronic schematic design**. This repository presents the project's Arduino Mega and ESP32 source code, Python vision applications and Altium design documents in one navigable collection.
 
-**Project owner:** [FurkanUstaoglu](https://github.com/FurkanUstaoglu)
+**Electronics, hardware design & software:** [FurkanUstaoglu](https://github.com/FurkanUstaoglu)
+
+## My contribution
+
+I developed the electronics, hardware design and software presented in this repository as part of a graduation project. My scope covered electronic schematic design, Arduino Mega and ESP32 software, and the Python image processing applications. This portfolio focuses on that work.
 
 ## Project at a glance
 
